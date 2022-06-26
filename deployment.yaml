@@ -16,4 +16,4 @@ spec:
       - name: ml-twitter
         image: nutka/lucasaguiar-ml_twitter:0.2
         ports:
-        - containerPort: 5000
+        - containerPort: 5019
